@@ -1,0 +1,32 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "Demo NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baolh106/Node-Blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs",
+    "blog",
+    "f8"
+  ],
+  "author": "baolh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baolh106/Node-Blog/issues"
+  },
+  "homepage": "https://github.com/baolh106/Node-Blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
